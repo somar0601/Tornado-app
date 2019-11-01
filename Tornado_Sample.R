@@ -430,11 +430,14 @@ shinyApp(
                            h3("You Spin Me Round is an application made by Pedro Borges, Megan Hauck, Shoaib Khan and Namaswi Chandarana for UIC's Spring 2018 CS 424, Visualization and Visual Analytics, and Professor Andy Johnson."),
                            h3("The application visualizes 62,000 tornadoes for the entire U.S. from 1950 to 2016, with about 2,500 tornadoes in Illinois alone. Several features allow users to navigate tornado size and loss data."),
                            h3("Run time may be slow, as the app was meant to be run on the EVL server"),
-                           h3("This layout and appearance of the app has been slightly edited from the original by Shoaib Khan"),
+                           h3("This layout and appearance of the app has been  edited from the original app by Shoaib Khan"),
                            HTML("<br>"),
                            h3("Data Links:"),
+                           
                            HTML("<h3>Data Source: <a href='http://www.spc.noaa.gov/wcm/index.html#data'>http://www.spc.noaa.gov/wcm/index.html#data</a>"),
                            HTML("<h3>Data Source Description: <a href='http://www.spc.noaa.gov/wcm/data/SPC_severe_database_description.pdf'>http://www.spc.noaa.gov/wcm/data/SPC_severe_database_description.pdf</a>"),
+                           HTML("<h3>Current version Source Code: <a href='https://github.com/skhan230/Tornado-app'>https://github.com/skhan230/Tornado-app</a>"),
+                           
                            HTML("<h3>Original app source code: <a href='https://github.com/mhauck3/TornadoP3'>https://github.com/mhauck3/TornadoP3#data</a>")
                            
                   ),
