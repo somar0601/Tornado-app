@@ -8,5 +8,7 @@ Run time may be slow, as the app was meant to be run on the Visualization Lab se
 This layout and appearance of the app has been edited from the original by Shoaib Khan
 
 Data source: http://www.spc.noaa.gov/wcm/index.html#data'>http://www.spc.noaa.gov/wcm/index.html#data
+
 Data Source Description: http://www.spc.noaa.gov/wcm/data/SPC_severe_database_description.pdf
+
 Original app source code: https://github.com/mhauck3/TornadoP3
