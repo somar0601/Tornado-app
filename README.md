@@ -12,10 +12,18 @@ Original app source code: https://github.com/mhauck3/TornadoP3
 
 # English: App Video-demo
 
-
+https://streamable.com/qk2yz
 
 # Español: Video de demonstraciòn de app.
 Los siguientes vidoes son grabaciones de una presentación informal que le di a un periodista peruana por skype.
+
+Parte 1: TBA
+
+Parte 2: https://streamable.com/hj392
+
+Parte 3:  https://streamable.com/f99uk
+
+Parte 4: TBA
 
 
 
