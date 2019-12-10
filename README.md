@@ -17,13 +17,13 @@ https://streamable.com/qk2yz
 # Español: Video de demonstraciòn de app.
 Los siguientes vidoes son grabaciones de una presentación informal que le di a un periodista peruana por skype.
 
-Parte 1: TBA
+Parte 1: https://streamable.com/taa4a  (Hay una pausa breve en 1:50-2:20)
 
 Parte 2: https://streamable.com/hj392
 
-Parte 3:  https://streamable.com/f99uk
+Parte 3:  https://streamable.com/f99uk (Hay una pausa breve en 2:30-3:40)
 
-Parte 4: TBA
+Parte 4: https://streamable.com/r1pd0  
 
 
 
