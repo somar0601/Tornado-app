@@ -15,7 +15,7 @@ Original app source code: https://github.com/mhauck3/TornadoP3
 https://streamable.com/qk2yz
 
 # Español: Video de demonstraciòn de app.
-Los siguientes vidoes son grabaciones de una presentación informal que le di a un periodista peruana por skype.
+El siguiente video es un grabacion de una presentación informal que le di a un periodista peruana por skype.
 (Hay una pausa breve en 1:50-2:20 y  2:30-3:40)
 
 https://www.youtube.com/watch?v=15xWfAzONxs
