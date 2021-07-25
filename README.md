@@ -12,7 +12,7 @@ Original app source code: https://github.com/mhauck3/TornadoP3
 
 # English: App Video-demo
 
-https://streamable.com/qk2yz
+https://www.youtube.com/watch?v=ZRRH136XTMQ
 
 # Español: Video de demonstraciòn de app.
 El siguiente video es un grabacion de una presentación informal que le di a un periodista peruana por skype.
